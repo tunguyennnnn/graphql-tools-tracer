@@ -1,0 +1,25 @@
+{
+  "name": "graphql-tools-tracer",
+  "version": "0.0.1",
+  "description": "A visualization tool for GraphQL tools",
+  "keywords": [
+    "graphql",
+    "Apollo",
+    "graphql-tools"
+  ],
+  "homepage": "https://github.com/tunguyennnnn/graphql-tools-tracer.git",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tunguyennnnn/graphql-tools-tracer.git"
+  },
+  "author": "tunguyenuni@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
+}
